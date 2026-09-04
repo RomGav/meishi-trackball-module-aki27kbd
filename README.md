@@ -54,4 +54,4 @@ This is an updated set of files from aki27kbd's trackball module which was also 
       6a. Please note that when you remap your keys and flash the trackball, the remapping itself is successful but the preview display is not accurate
 
       6b. Alternatively, you can use the ImHavingARogasm Shared Keymaps on REMAP to quickly set up your trackball with this layout:
-![ImHavingARogasm Shared Keymap](https://github.com/RomGav/meishi-trackball-module-aki27kbd/blob/main/ImHavingARogasm%20REMAP%20Keymap.png.jpg?raw=true)
+![ImHavingARogasm Shared Keymap](https://github.com/RomGav/meishi-trackball-module-aki27kbd/blob/main/ImHavingARogasm%20REMAP%20Keymap.png?raw=true)
