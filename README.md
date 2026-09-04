@@ -12,6 +12,15 @@ This is an updated set of files from aki27kbd's trackball module which was also 
 
       3b. Alternatively, you can use the ImHavingARogasm Shared Keymaps on REMAP to quickly set up your trackball with this [layout](https://github.com/RomGav/meishi-trackball-module-aki27kbd/blob/main/ImHavingARogasm%20REMAP%20Keymap.png?raw=true) (Image at the bottom):
 
+**Differences:**
+Aki27's firmware has **DPI options** set in rotation at {250, 500, 750, 1000, 1250}
+
+Aki27's firmware has **scrolling TRACKBALL speed** set in rotation at { 1, 2, 3, 4, 5, 6 } with 6 being the slowest
+
+ImHavingARogasm's firmware has **DPI options** set in rotation at {400, 800}
+
+ImHavingARogasm's firmware has **scrolling TRACKBALL speed** set in rotation at { 4, 5, 6 } with 6 being the slowest
+
 # To modify your own firmware and settings
 1. Install [QMK MSYS](https://github.com/qmk/qmk_distro_msys/releases/tag/1.12.0)
 
