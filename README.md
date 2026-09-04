@@ -20,16 +20,22 @@ This is an updated set of files from aki27kbd's trackball module which was also 
 4. Listed below are the files names and what can be modified inside (note I also left descriptions inside the files themselves):
 
       trackball_module.c
+   
             Trackball Speed/DPI/CPI (you can set multiple options)
+
             Trackball SCROLLING Speed (you can set multiple options, the higher the value the slower the scrolling speed)
+
       config.h
+
             Trackball Module Direction (0 is trackball on the left; 90 is trackball at the bottom; 180 is trackball on the right; 270 is trackball at the top)
 
       keymaps\default\keymap.c
+
             You can adjust your keymap manually here
+
             Trackball Scrolling Assigned Layer (**cocot_set_scroll_mode(true)** is the command used to select which layers use trackball scrolling upon layer switch)
    
-5. Once you're finished customizing your firmware, you can compile to create a .hex file and flash using QMK Toolbox OR flash directly using QMK MSYS
+6. Once you're finished customizing your firmware, you can compile to create a .hex file and flash using QMK Toolbox OR flash directly using QMK MSYS
 
       5a. Compile your .hex file:
 
