@@ -14,11 +14,13 @@ This is an updated set of files from aki27kbd's trackball module which was also 
 
 # Differences in firmware options
 **Aki27's firmware**
+      
       has **DPI options** set in rotation at {250, 500, 750, 1000, 1250}
       
       has **scrolling TRACKBALL speed** set in rotation at { 1, 2, 3, 4, 5, 6 } with 6 being the slowest
 
 **ImHavingARogasm's firmware**
+      
       has **DPI options** set in rotation at {400, 800}
 
       has **scrolling TRACKBALL speed** set in rotation at { 4, 5, 6 } with 6 being the slowest
