@@ -1,7 +1,7 @@
 # meishi-trackball-module-aki27kbd
 This is an updated set of files from aki27kbd's trackball module which was also purchased from Yushakobo in Japan. Included are .hex firmwares that you can use to flash your own device in the default style or in my modified style. A deeper look into the modules include notes about personalization of certain aspects like cursor speed &amp; scroll speed.
 
-**To flash Ready-To-Use firmware**
+# To flash Ready-To-Use firmware
 1. [Download](https://github.com/RomGav/meishi-trackball-module-aki27kbd/tree/main/Ready%20To%20Download%20Hex%20Firmwares) Either aki27's .hex firmware file or ImHavingARogasm .hex firmware file
 
 2. Install [QMK Toolbox](https://qmk.fm/toolbox), select your .hex file, press the reset button on your trackball twice, and hit flash
@@ -12,7 +12,7 @@ This is an updated set of files from aki27kbd's trackball module which was also 
 
       3b. Alternatively, you can use the ImHavingARogasm Shared Keymaps on REMAP to quickly set up your trackball with this [layout](https://github.com/RomGav/meishi-trackball-module-aki27kbd/blob/main/ImHavingARogasm%20REMAP%20Keymap.png?raw=true) (Image at the bottom):
 
-**To modify your own firmware and settings**
+# To modify your own firmware and settings
 1. Install [QMK MSYS](https://github.com/qmk/qmk_distro_msys/releases/tag/1.12.0)
 
             In the QMK Console type "qmk setup" and enter
