@@ -29,5 +29,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 //Trackball Module Direction
 //0 is trackball on the left; 90 is trackball at the bottom; 180 is trackball on the right; 270 is trackball at the top
-#define POINTING_DEVICE_ROTATION_270
+#define POINTING_DEVICE_ROTATION_180
 #define OLED_FONT_H "keyboards/aki27/trackball_module/lib/glcdfont.c"
