@@ -7,7 +7,7 @@ This is an updated set of files from aki27kbd's trackball module which was also 
 **To modify your own firmware and settings**
 1. Install [QMK MSYS](https://github.com/qmk/qmk_distro_msys/releases/tag/1.12.0)
 
-1a. In the QMK Console type "qmk setup" and enter
+      1a. In the QMK Console type "qmk setup" and enter
 
 2. Download the settings folder you'd like to use (Mine or aki27's Default)
 
